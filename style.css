@@ -1,0 +1,21 @@
+.header{
+    background-color:#2EB6DB;
+    display:flex;
+    justify-content: space-between;
+}
+
+.grid{
+    border: 2px solid black;
+    border-radius: 50px;
+    display:flex;
+    flex-wrap:wrap;
+}
+
+.Oragami{
+
+    border-radius:  20px;
+    background-color: white;
+
+    width: 310px;
+    font-family: fantasy;
+}
